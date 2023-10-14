@@ -1,0 +1,13 @@
+let i=1.;
+let j=123;
+let f=-12.2;
+let sum1=+12.13e+1;
+let su12m=-1.45e-13;
+let fun1=13;
+let let1=print13;
+let while12=if13;
+while(i<=10 and f==123){
+    sum1 = sum1 + su12m / f;
+    if (i >= 10)
+        f = 15;
+}
